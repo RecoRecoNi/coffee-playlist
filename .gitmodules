@@ -1,0 +1,12 @@
+[submodule "reconi-frontend"]
+	path = reconi-frontend
+	url = https://github.com/RecoRecoNi/reconi-frontend.git
+[submodule "Reconi-BackEnd"]
+	path = Reconi-BackEnd
+	url = https://github.com/RecoRecoNi/Reconi-BackEnd.git
+[submodule "Recommendation-Modeling"]
+	path = Recommendation-Modeling
+	url = https://github.com/RecoRecoNi/Recommendation-Modeling.git
+[submodule "Reconi-Airflow"]
+	path = Reconi-Airflow
+	url = https://github.com/RecoRecoNi/Reconi-Airflow.git
